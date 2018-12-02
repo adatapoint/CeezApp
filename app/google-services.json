@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "731923445877",
+    "firebase_url": "https://ceezapp.firebaseio.com",
+    "project_id": "ceezapp",
+    "storage_bucket": "ceezapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731923445877:android:b227824258fe7e91",
+        "android_client_info": {
+          "package_name": "com.vince.ceezapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731923445877-39js8jo3ol2a66bcg1l73rat3p45bepu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vince.ceezapp",
+            "certificate_hash": "2081585fd8aeff5d8563e14ceb2a4c9390b16d2d"
+          }
+        },
+        {
+          "client_id": "731923445877-cukfnv86p9e8nm80sspaen61i36v7u8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyg6sTwyAV6TlxHxSWcdT3sSupRZyfIIY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731923445877-cukfnv86p9e8nm80sspaen61i36v7u8b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
